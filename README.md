@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MjKamma
-- 👀 I’m interested in software development and product design 
-- 🌱 I’m currently learning Front end development.
-- 💞️ I’m looking to collaborate on front end projects.
+- 👋 Hi, I’m Mercy. 
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning Software Engeering.
+- 💞️ I’m looking to collaborate on all software Devops projects.
 - 📫 How to reach me on my email MercyJay011@gmail.com
 
 <!---
